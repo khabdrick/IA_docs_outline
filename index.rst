@@ -7,7 +7,9 @@ Welcome to Internet Archive docs's documentation!
 =================================================
 
 .. toctree::
-   :hidden:
+   :maxdepth: 2
+   :caption: Contents:
+
    DevelopmentSetup/index
 
 
