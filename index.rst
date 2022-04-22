@@ -4,7 +4,7 @@
    contain the root `toctree` directive.
 
 Welcome to Internet Archive documentation!
-=================================================
+==========================================
 
 .. toctree::
    :maxdepth: 2
