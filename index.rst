@@ -6,11 +6,16 @@
 Welcome to Internet Archive documentation!
 ==========================================
 
+===============
+Getting Started
+===============
+User guide
+Contribution
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
-   DevelopmentSetup/index
 
 
 
