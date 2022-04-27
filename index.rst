@@ -10,7 +10,7 @@ Internet Archive also provide some means in which researchers, historians, schol
 Anyone with a free account can upload and download media to the Internet Archive. We work with thousands of partners globally to save copies of their work into special collections.
 Our mission is to provide Universal Access to All Knowledge.
 
-This is the central page for all of SymPy's documentation.
+This is the central page for all of Internet Archive's documentation.
 
 ==================================================================
 
